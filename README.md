@@ -8,9 +8,10 @@
 - 7 个主分类：站姿、坐姿、跪/蹲、卧姿、倒立/高难度、双人高低组合、半身手势。另有人数、全身/半身等标签。
 - `poses.json`（UTF-8 索引）和 `poses.csv`（方便手动改标签）。
 
-## 下载
+## 浏览与下载
 
-去 [Releases](../../releases/latest) 下载 `shisei_penna_pose_pack_v1.zip`（约 20.9 MB）。仓库本身只放说明和许可文件。
+- 在线浏览：[`images/`](images/) 是全部 1212 张线稿，[`poses.json`](poses.json) 和 [`poses.csv`](poses.csv) 是索引，[`category_preview.jpg`](category_preview.jpg) 是分类总览。
+- 打包下载：去 [Releases](../../releases/latest) 下载 `shisei_penna_pose_pack_v1.zip`（约 20.9 MB），内容和仓库里的文件一样。
 
 ## 注意事项
 
